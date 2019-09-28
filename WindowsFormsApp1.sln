@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATenIOT", "WindowsFormsApp1\ATenIOT.csproj", "{DC307815-C38B-4CC5-8BD6-45D04F88CB60}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Aten IOT", "Aten.vdproj", "{C8CE92E1-6D58-4383-95BB-808E33956C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC307815-C38B-4CC5-8BD6-45D04F88CB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC307815-C38B-4CC5-8BD6-45D04F88CB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC307815-C38B-4CC5-8BD6-45D04F88CB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC307815-C38B-4CC5-8BD6-45D04F88CB60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8CE92E1-6D58-4383-95BB-808E33956C5D}.Debug|Any CPU.ActiveCfg = Debug
+		{C8CE92E1-6D58-4383-95BB-808E33956C5D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6EAF89-8438-43A5-BFD1-0F5092F26E69}
+	EndGlobalSection
+EndGlobal
